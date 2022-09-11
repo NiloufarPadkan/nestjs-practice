@@ -1,2 +1,2 @@
 # nestjs-practice
-hands-on projects from the nests courses
+hands-on projects from the nestjs courses
